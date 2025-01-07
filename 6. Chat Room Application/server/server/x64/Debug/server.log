@@ -1,0 +1,4 @@
+﻿  server.cpp
+C:\Users\paras\Desktop\!lab\cn-lab\6. Chat Room Application\server\server.cpp(20,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\paras\Desktop\!lab\cn-lab\6. Chat Room Application\server\server.cpp(28,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\Users\paras\Desktop\!lab\cn-lab\6. Chat Room Application\server\x64\Debug\server.exe for writing
